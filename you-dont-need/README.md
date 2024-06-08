@@ -1,0 +1,6 @@
+# You don't need...
+
+JavaScript has steadily improved, new tools, new workflows were built...
+
+Are you just adding new stuff, or is it time to drop some of the old stuff (coding patterns, tools, workflows)
+
